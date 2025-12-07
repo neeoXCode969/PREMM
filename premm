@@ -797,7 +797,7 @@ Draggable = true,
 
 -- Tambah tag
 Window:Tag({
-    Title = "VIP",
+    Title = "VIP USER",
     Color = Color3.fromHex("#30ff6a"),
     Radius = 10,
 })
