@@ -714,6 +714,14 @@ SettingsTab:Button({
 })
 
 SettingsTab:Button({
+    Title = "RECORD MENU",
+    Icon = "lucide:zap",
+    Desc = "membuat Auto Walk Sendiri",
+    Callback = function()
+        loadstring(game:HttpGet("https://raw.githubusercontent.com/neeoXCode969/Mainlua/refs/heads/main/main%20record%20"))()
+    end
+})
+SettingsTab:Button({
     Title = "CREATE AUTO SUMMIT",
     Icon = "lucide:zap",
     Desc = "Load Create summit",
