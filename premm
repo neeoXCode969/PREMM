@@ -514,6 +514,8 @@ local mountRoutes = {
     ["⛰️ MOUNT Axis"] = "https://raw.githubusercontent.com/neeoXCode969/axis/refs/heads/main/axis.lua",
     ["🏞 MOUNT Kita"] = "https://raw.githubusercontent.com/neeoXCode969/Kita/refs/heads/main/kita%20.lua",
     ["🚶 Aetheria WASD"] = "https://raw.githubusercontent.com/neeoXCode969/Was/refs/heads/main/aetheria%20wasd.lua",
+    ["⛰️ MOUNT Atin"] = "https://raw.githubusercontent.com/neeoXCode969/amin/refs/heads/main/atin.lua",
+    ["🏞 GUNUNG Rinjani"] = "https://raw.githubusercontent.com/neeoXCode969/bismillah-/refs/heads/main/Rinjani%20.lua",
 }
 
 -- Dropdown Mount
