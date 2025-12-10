@@ -498,7 +498,7 @@ local mountRoutes = {
     ["⛰️️ MT Yahayuk"] = "https://raw.githubusercontent.com/neeoXCode969/yahayukupdtt/refs/heads/main/yahayukupdtt.lua",
     ["🏞 Arunika"] = "https://raw.githubusercontent.com/neeoXCode969/Arunika/refs/heads/main/aru.lua",
     ["⛰️ MT Kamu"] = "https://raw.githubusercontent.com/neeoXCode969/kamusukamy/refs/heads/main/jwmbut.lua",
-    ["🏞 MT Funyy"] = "https://raw.githubusercontent.com/neeoXCode969/Fixfuny/refs/heads/main/funnyfix.lua",
+    ["🏞 MT Funyy"] = "https://raw.githubusercontent.com/neeoXCode969/Awq/refs/heads/main/funyyfixxhecl.lua",
     ["⛰️ MT Yagesya"] = "https://raw.githubusercontent.com/neeoXCode969/yagesya/refs/heads/main/Replay.lua",
     ["🏞 MT Netizen"] = "https://raw.githubusercontent.com/neeoXCode969/Bagen/refs/heads/main/netizen.lua",
     ["👾 Mount Zora"] = "https://raw.githubusercontent.com/neeoXCode969/Zora/refs/heads/main/zora.lua",
@@ -784,7 +784,7 @@ Replay/route system untuk checkpoint.
 - Run CPx → CPy = jalur spesifik
 - Playback Speed = atur kecepatan replay (0.25x - 3.00x)
 
-Own ZynXEploit/berlyy
+Own Zyn/berlyy
     ]],
     TextSize = 16,
     TextTransparency = 0.25,
