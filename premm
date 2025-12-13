@@ -799,7 +799,7 @@ Window:DisableTopbarButtons({
 
 -- Open button cantik
 Window:EditOpenButton({
-Title = "ZynXExploit",
+Title = "ES4STORE",
 Icon = "geist:logo-nuxt",
 CornerRadius = UDim.new(0,16),
 StrokeThickness = 2,
