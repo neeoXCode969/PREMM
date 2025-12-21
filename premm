@@ -519,6 +519,7 @@ local mountRoutes = {
     ["⛰️ MOUNT Ayriene"] = "https://raw.githubusercontent.com/neeoXCode969/Tsd/refs/heads/main/ayriene.lua",
     ["🏞 MOUNT Velora"] = "https://raw.githubusercontent.com/neeoXCode969/Cx/refs/heads/main/velorafix.lua",
     ["⛰️ Sadewa City"] = "https://raw.githubusercontent.com/neeoXCode969/citya/refs/heads/main/Sadewacity.lua",
+    ["🏞 MOUNT Sendang"] = "https://raw.githubusercontent.com/neeoXCode969/skil/refs/heads/main/sendang.lua",
 }
 
 -- Dropdown Mount
