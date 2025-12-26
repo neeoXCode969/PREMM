@@ -356,7 +356,7 @@ end
 local WindUI = loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/dist/main.lua"))()
 
 local Window = WindUI:CreateWindow({
-    Title = "ZynnXExploit",
+    Title = "Zynn X Hub",
     Icon = "lucide:mountain-snow",
     Author = "by berlyy",
     Folder = "By berlyy",
@@ -521,6 +521,8 @@ local mountRoutes = {
     ["⛰️ Sadewa City"] = "https://raw.githubusercontent.com/neeoXCode969/citya/refs/heads/main/Sadewacity.lua",
     ["🏞 MOUNT Sendang"] = "https://raw.githubusercontent.com/neeoXCode969/skil/refs/heads/main/sendang.lua",
     ["❄️ Gunung H2C"] = "https://raw.githubusercontent.com/pratamaaa574-cmd/H2C/refs/heads/main/H2C.lua",
+    ["🏞 MOUNT Gemas"] = "https://raw.githubusercontent.com/neeoXCode969/skil/refs/heads/main/gemas.lua",
+    ["⛰️ MOUNT Sangkala"] = "https://raw.githubusercontent.com/neeoXCode969/skil/refs/heads/main/sangkala.lua",
 }
 
 -- Dropdown Mount
